@@ -1,7 +1,11 @@
 <template>
-  <ul class="list-none pl-5 pt-5">
-    <li>
-      <NuxtLink to=""> Assets & Public </NuxtLink>
-    </li>
-  </ul>
+  <div class="container mx-auto">
+    <ul class="list-none pl-5 pt-5">
+      <li>
+        <NuxtLink to="/config"> 1 Config </NuxtLink>
+        <NuxtLink to="/assets-public"> 2 Assets & Public </NuxtLink>
+      </li>
+    </ul>
+    <!-- ... -->
+  </div>
 </template>
