@@ -18,10 +18,8 @@
               <code>
               export default defineNuxtConfig({
                 runtimeConfig: {
-                  // As chaves privadas que estão disponíveis apenas no lado do servidor
                   apiSecret: '123-privado',    
                   public: {
-                    // Chaves públicas também são expostas no lado do cliente
                     apiBase: '/api-public'
                   }
                 },
