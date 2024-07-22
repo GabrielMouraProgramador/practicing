@@ -23,4 +23,10 @@
 //     nitroApp.hooks.hook('render:response', (response, { event }) => { console.log(response) })
     
 //   })
-  
+
+
+//https://github.com/nuxt/nuxt/issues/15088 
+// ERRO
+
+//PARA TESTAR
+//https://stackblitz.com/edit/github-xuiv1i-gjjnre?file=package.json,server%2Fplugins%2FNitroPlugin.ts
