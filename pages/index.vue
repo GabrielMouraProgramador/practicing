@@ -3,6 +3,8 @@
     <ul class="list-none pl-5 pt-5">
       <li>
         <NuxtLink to="/config"> 1 Config </NuxtLink>
+      </li>
+      <li>
         <NuxtLink to="/assets-public"> 2 Assets & Public </NuxtLink>
       </li>
     </ul>

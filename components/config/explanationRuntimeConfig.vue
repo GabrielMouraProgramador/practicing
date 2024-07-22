@@ -1,7 +1,9 @@
 <template>
   <div>
     <h1 class="font-bold mb-2 text-xl">Configuração</h1>
-    <h3 class="font-bold normal-case mb-1">Variáveis ​​de ambiente e tokens privados</h3>
+    <h3 class="font-bold normal-case mb-1">
+      1 - Variáveis ​​de ambiente e tokens privados
+    </h3>
 
     <div>
       A
