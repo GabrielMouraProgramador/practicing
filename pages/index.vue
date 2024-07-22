@@ -7,6 +7,9 @@
       <li>
         <NuxtLink to="/assets-public"> 2 Assets & Public </NuxtLink>
       </li>
+      <li>
+        <NuxtLink to="/nitro"> 3 Server </NuxtLink>
+      </li>
     </ul>
     <!-- ... -->
   </div>
