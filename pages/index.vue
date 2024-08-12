@@ -10,6 +10,9 @@
       <li>
         <NuxtLink to="/nitro"> 3 Server </NuxtLink>
       </li>
+      <li>
+        <NuxtLink to="/style"> 4 Style </NuxtLink>
+      </li>
     </ul>
     <!-- ... -->
   </div>
